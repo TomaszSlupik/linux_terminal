@@ -44,3 +44,9 @@ folderu kopia_PY_DEV1 na nowa_kopia_PY_DEV1
 **cat moj_python.txt | grep Python** - szukanie słowa Python w pliku moj_python.txt
 
 **history 10** - historia 10 komend w terminalu 
+
+**ls -l** - historia danych plików 
+
+**chmod u-rwx plik.txt** - odebranie dostępu do pliku: plik.txt
+
+**chmod u+x script.sh** - dostęp do pliku script.sh
